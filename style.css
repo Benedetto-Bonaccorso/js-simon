@@ -1,0 +1,9 @@
+body{
+    background-color: slateblue;
+    color: aliceblue;
+}
+
+#paragraph{
+    display: flex;
+    flex-direction: column;
+}
